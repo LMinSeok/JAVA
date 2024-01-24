@@ -1,0 +1,11 @@
+package ex03;
+
+public class exam01 {
+
+	public static void main(String[] args) {
+		
+		int exam = 4000;
+		System.out.println("출력 : " + (4000/60));
+	}
+
+}

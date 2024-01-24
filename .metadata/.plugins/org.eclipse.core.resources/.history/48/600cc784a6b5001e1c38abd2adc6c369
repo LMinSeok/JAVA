@@ -1,0 +1,15 @@
+package ex01;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hello World"); //ctrl + d > 줄삭제
+		System.out.println(""); //한줄, alt + 상하방향키 > 줄이동
+		System.out.println("------------"); //ctrl + alt + 아래방향키 > 줄복사
+		
+		int score = 30;
+		System.out.println("score : ");
+	}
+
+}
