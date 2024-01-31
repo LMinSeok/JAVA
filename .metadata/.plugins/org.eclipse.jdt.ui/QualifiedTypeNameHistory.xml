@@ -5,4 +5,10 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex05.Book"/>
     <fullyQualifiedTypeName name="ex07.Car"/>
+    <fullyQualifiedTypeName name="ex01.Smartphone"/>
+    <fullyQualifiedTypeName name="ex04.EBook"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex03.BookControll"/>
+    <fullyQualifiedTypeName name="ex03.Book"/>
+    <fullyQualifiedTypeName name="ex03.Novel"/>
 </qualifiedTypeNameHistroy>
