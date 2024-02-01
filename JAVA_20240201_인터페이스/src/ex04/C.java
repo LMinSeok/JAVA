@@ -10,3 +10,7 @@ public class C implements A {
 		System.out.println("C-method2");
 	}
 }
+
+class D extends C{
+	
+}
