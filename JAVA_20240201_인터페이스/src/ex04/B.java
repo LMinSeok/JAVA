@@ -7,3 +7,10 @@ public class B implements A {
 	}
 
 }
+
+class F implements A {
+	@Override
+	public void method1() {
+		System.out.println("F-method");
+	}
+}

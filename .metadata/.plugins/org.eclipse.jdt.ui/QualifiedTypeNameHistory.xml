@@ -2,13 +2,18 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex05.Book"/>
     <fullyQualifiedTypeName name="ex07.Car"/>
     <fullyQualifiedTypeName name="ex01.Smartphone"/>
     <fullyQualifiedTypeName name="ex04.EBook"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ex03.BookControll"/>
     <fullyQualifiedTypeName name="ex03.Book"/>
     <fullyQualifiedTypeName name="ex03.Novel"/>
+    <fullyQualifiedTypeName name="ex01.TV"/>
+    <fullyQualifiedTypeName name="ex01.RemoteControl"/>
+    <fullyQualifiedTypeName name="ex02.MediaPlayer"/>
+    <fullyQualifiedTypeName name="ex02.FLACPlayer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ex04.D"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
