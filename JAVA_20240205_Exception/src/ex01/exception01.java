@@ -11,19 +11,25 @@ public class exception01 {
 		double div = 0;
 		System.out.println("정수 2개 입력 >> ");
 
-		try {
-			int num1 = sc.nextInt();
-			int num2 = sc.nextInt();
+		try {// 문제 소지가 생길 가능성 있는 대상 기입
+			int num1 = sc.nextInt(); // 정수입력을 요구 => 문자열 그때 어떻게?
+			int num2 = sc.nextInt(); // 0 아닌 값 요구 => 0 입력하면 어떻게?
 
 			div = num1 / num2;
-		} catch (ArithmeticException e) {
+
+			int[] arr = new int[3]; // 배열 크기 3
+			// for (int i = 0; i <arr.lenght i++)
+			for (int i = 0; i < 10; i++)
+				arr[i] = i; // 배열 벗어난 입력을 하면 ?
+
+		} catch (ArithmeticException e) { // 정수가 아닌 입력하면 처리
 			e.printStackTrace();
-		} catch (InputMismatchException e) {
+		} catch (InputMismatchException e) { // 0으로 나누기 했을 때 처리
 			e.printStackTrace();
-		} catch (Exception e) {
+		} catch (Exception e) { // 아무거나
 			e.printStackTrace();
 		} finally {
-			//여기는 예외가 발생하든 아니든
+			// 여기는 예외가 발생하든 발생하지 않든 무조건 처리하는 구문
 		}
 
 		System.out.println("나누기 : " + div);

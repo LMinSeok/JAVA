@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="ex05.Book"/>
     <fullyQualifiedTypeName name="ex07.Car"/>
@@ -13,7 +12,19 @@
     <fullyQualifiedTypeName name="ex01.RemoteControl"/>
     <fullyQualifiedTypeName name="ex02.MediaPlayer"/>
     <fullyQualifiedTypeName name="ex02.FLACPlayer"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="ex04.D"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="ex02.A"/>
+    <fullyQualifiedTypeName name="ex04.Product"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ex01.exception03"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="ex01.Box2"/>
+    <fullyQualifiedTypeName name="ex02.StringBufferEx01"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="ex01.B"/>
+    <fullyQualifiedTypeName name="ex01.A"/>
 </qualifiedTypeNameHistroy>
