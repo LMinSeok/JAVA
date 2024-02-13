@@ -30,7 +30,7 @@ public class FruitBoxEx01 {
 
 }
 
-class Box<T> { // 사과, 오렌지 담는 상자
+class Box<T> { // 사과, 오렌지 담는 상자 (제네릭 클래스)
 	private T obj;
 
 	void setObj(T obj) {

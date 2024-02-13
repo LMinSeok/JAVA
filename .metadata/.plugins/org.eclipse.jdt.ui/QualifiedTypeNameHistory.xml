@@ -25,10 +25,11 @@
     <fullyQualifiedTypeName name="ex02.StringBufferEx01"/>
     <fullyQualifiedTypeName name="ex01.B"/>
     <fullyQualifiedTypeName name="ex01.A"/>
-    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
     <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicLong"/>
     <fullyQualifiedTypeName name="ex06.unboxer"/>
     <fullyQualifiedTypeName name="java.lang.Deprecated"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 </qualifiedTypeNameHistroy>

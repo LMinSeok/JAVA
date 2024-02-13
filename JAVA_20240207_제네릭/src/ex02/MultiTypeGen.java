@@ -1,6 +1,6 @@
 package ex02;
 
-class Dbox<L, R> {
+class DBox<L, R> {
 	private L left;
 	private R right;
 
@@ -16,9 +16,11 @@ class Dbox<L, R> {
 }
 
 public class MultiTypeGen {
-	public void main(String[] args) {
-		MultiTypeGen<String, Integer> box = new MultiTypeGen<String, Integer>();
-		box.set("Apple", 10);
+	public static void main(String[] args) {
+
+		DBox<String, Integer> box = new DBox<>();
+
+		box.set("apple", 10);
 		System.out.println(box);
 	}
 }
