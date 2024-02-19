@@ -16,7 +16,7 @@ public class Movie {
 	private String title;  //영화 제목
 	private String genre; //영화 장르
 	
-	private static final File file = new File("src/movie/movies.txt");
+	private static final File file = new File("src/Movie/movies.txt");
 	
 //	public Movie(long id, String title, String genre ) {
 //		this.id = id;
