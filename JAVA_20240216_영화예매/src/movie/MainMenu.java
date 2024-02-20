@@ -42,7 +42,7 @@ public class MainMenu extends AbstractMenu{
 			AdminMenu adminMenu = AdminMenu.getInstance();
 			adminMenu.setPrevMenu(this);
 			return adminMenu;
-		case "q": return prevMenu; //q입력하면, prevMenu를 반환
+		case "q": return prevMenu; //q 입력하면, prevMenu를 반환
 		default : return this;    //그 외 입력 MainMenu로 돌아감
 		}
 		
@@ -73,7 +73,7 @@ public class MainMenu extends AbstractMenu{
 			seats.mark(seatName);  //좌석 예매
 			
 			Reservation reservation = 
-					new Reservation(movie.getId() , movie.getTitle(), seatName);
+					new Reservation(movie.getId(), movie.getTitle(), seatName);
 			
 			reservation.save();
 			
@@ -86,7 +86,7 @@ public class MainMenu extends AbstractMenu{
 	private void cancelReservation() {
 		System.out.println("예매번호를 입력하세요:");
 		
-		Reservation  canceled = Reservation.cancel(sc.nextLine());
+		Reservation canceled = Reservation.cancel(sc.nextLine());
 		
 		if(canceled == null) {
 			System.out.println("예매 내역이 없습니다.");

@@ -12,7 +12,7 @@ public class Seats {
 	public Seats(ArrayList<Reservation> reservations)  throws Exception{
 		for(int i=0; i<MAX_ROW; i++) {
 			for(int j=0; j<MAX_COL; j++) {
-				map[i][j]="O";   //좌석 초기화
+				map[i][j]="O";   //빈좌석
 			}
 		}
 		
