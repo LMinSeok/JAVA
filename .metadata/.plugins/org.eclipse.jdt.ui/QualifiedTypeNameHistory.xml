@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ex04.EBook"/>
-    <fullyQualifiedTypeName name="ex03.BookControll"/>
-    <fullyQualifiedTypeName name="ex03.Book"/>
-    <fullyQualifiedTypeName name="ex03.Novel"/>
-    <fullyQualifiedTypeName name="ex01.TV"/>
-    <fullyQualifiedTypeName name="ex01.RemoteControl"/>
-    <fullyQualifiedTypeName name="ex02.MediaPlayer"/>
-    <fullyQualifiedTypeName name="ex02.FLACPlayer"/>
-    <fullyQualifiedTypeName name="ex04.D"/>
-    <fullyQualifiedTypeName name="ex02.A"/>
-    <fullyQualifiedTypeName name="ex04.Product"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="ex01.exception03"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
@@ -27,9 +16,7 @@
     <fullyQualifiedTypeName name="ex08.ArrayListEx01"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="java.util.Queue"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.ListIterator"/>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="ex12.HashSetLotto"/>
@@ -48,7 +35,6 @@
     <fullyQualifiedTypeName name="javax.sound.sampled.Line"/>
     <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="movie.Reservation"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
@@ -59,5 +45,19 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ex04.Outer"/>
+    <fullyQualifiedTypeName name="ex04.MemberInnerClass"/>
+    <fullyQualifiedTypeName name="ex04.Outer.Member"/>
+    <fullyQualifiedTypeName name="ex01.printer"/>
+    <fullyQualifiedTypeName name="ex02.printable"/>
+    <fullyQualifiedTypeName name="ex06.printVariable"/>
+    <fullyQualifiedTypeName name="ex06.SquareA"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
 </qualifiedTypeNameHistroy>
